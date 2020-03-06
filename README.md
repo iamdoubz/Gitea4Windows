@@ -5,7 +5,7 @@
 
 ## Build info
 
-The softwares used to build Gitea have changes of their own from time to time. Where otherwise where commented or noted, building Gitea uses the following versions of software:
+The softwares used to build Gitea have changes of their own from time to time. Unless explicitly commented or noted, these Gitea builds use the following versions of software:
 
 1. Go v1.14 ([DL](https://golang.org/dl/))
 2. Gnumake v4.3 ([DL](https://github.com/mbuilov/gnumake-windows))
