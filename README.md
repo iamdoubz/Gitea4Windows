@@ -21,12 +21,12 @@ Note: if you used any version of Nodejs < v13.8.0 or < v12.15.0, you are vulnera
 ### Old stable plus patches:
 
 * [4d876ab](https://github.com/go-gitea/gitea/releases/tag/v1.10.6)
-* [v1.10.6](https://mobile.loram.com/code/dwdoubet/Gitea4Windows/media/branch/master/v1.10/1.10.6.7z) (2020/03/10 12:09:00 CST)
+* [v1.10.6](https://raw.githubusercontent.com/iamdoubz/Gitea4Windows/master/v1.10/1.10.6.7z) (2020/03/10 12:09:00 CST)
 
 ### Newest stable plus patches:
 
 * [f3cacf1](https://github.com/go-gitea/gitea/releases/tag/v1.11.3)
-* [v1.11.3](https://mobile.loram.com/code/dwdoubet/Gitea4Windows/media/branch/master/v1.11/1.11.3.7z) (2020/03/10 12:11:00 CST)
+* [v1.11.3](https://raw.githubusercontent.com/iamdoubz/Gitea4Windows/master/v1.11/1.11.3.7z) (2020/03/10 12:11:00 CST)
 
 ### Latest dev plus patches:
 
